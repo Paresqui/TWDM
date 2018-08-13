@@ -1,0 +1,15 @@
+Referências HTML/CSS
+
+HTML
+
+https://tableless.com.br/o-que-html-basico/´
+
+https://www.devmedia.com.br/html-basico-codigos-html/16596
+------------------------------------------------------
+
+CSS
+
+https://www.hostinger.com.br/tutoriais/o-que-e-css-guia-basico-de-css/
+
+https://www.devmedia.com.br/codigo-css-entendendo-a-folha-de-estilos/37459
+---------------------------------------------------------------------------------
